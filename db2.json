@@ -11,14 +11,14 @@
       "lastName": "June"
     },
     {
+      "id": 5,
+      "firstName": "Cecilia",
+      "lastName": "Clement"
+    },
+    {
       "id": 3,
       "firstName": "Rona",
       "lastName": "Rook"
-    },
-    {
-      "id": 5,
-      "firstName": "Cecilia",
-      "lastName": "Errtt"
     }
   ]
 }
