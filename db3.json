@@ -1,0 +1,16 @@
+{
+  "data": {
+    "states": [
+      {
+        "id": 1,
+        "stateName": "Slovakia",
+        "capital": "Bratislava"
+      },
+      {
+        "id": 2,
+        "stateName": "Poland",
+        "capital": "Warsaw"
+      }
+    ]
+  }
+}
